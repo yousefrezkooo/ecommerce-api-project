@@ -99,3 +99,4 @@ Reviews are nested under a product, since a review always belongs to one.
 
 ---
 Built as a final semester project.
+
